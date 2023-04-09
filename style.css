@@ -59,6 +59,14 @@ a:hover {
   color: darkblue;
 }
 
+.rodapé {
+  padding: 0px 20px;
+  display: flex;
+  justify-content: center;
+  text-align: left;
+  background-color: white;
+}
+
 /*finalização da primeira página*/
 
 /*começo do banco de dados*/
