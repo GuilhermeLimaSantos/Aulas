@@ -16,12 +16,6 @@ body {
     background-color: white;
   }
 
-  .img {
-    justify-content: left;
-    width: 100px;
-    height: 100px;
-  }
-
   .sub {
     color: white;
     text-align: center;
