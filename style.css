@@ -1,52 +1,78 @@
 body {
-    background-color: darkblue;
-    box-sizing: border-box;
-    margin: 0;
-    padding: 0;
-    font-family: sans-serif;
-    width: 100vw;
-    height: 100vh;
-  }
-
-  .topo {
-    padding: 0px 20px;
-    display: flex;
-    justify-content: center;
-    text-align: left;
-    background-color: white;
-  }
-
-  .sub {
-    color: white;
-    text-align: center;
-  }
-  
-  main {
-    padding: 20px 0px;
-    display: flex;
-    justify-content: space-around;
-  }
-  
-  section, aside {
-    width: 45%;
-  }
-  
-  .conteiner {
-    padding: 10px;
-    text-align: center;
-    background-color: white;
+  background-color: darkblue;
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+  width: 100vw;
+  height: 100vh;
 }
-  
+
+ul {
+  list-style: none;
+}
+
+nav {
+  background-color: white;
+  padding: 0 20px;
+  justify-content: space-between;
+  align-items: center;
+}
+
+nav, ul {
+  display: flex;
+  flex-direction: row;
+}
+
+li {
+  padding: 0 20px;
+}
+
+li:hover {
+  color: darkblue;
+  background-color: lightblue;
+}
+
+.topo {
+  padding: 0px 20px;
+  display: flex;
+  justify-content: center;
+  text-align: left;
+  background-color: white;
+}
+
+.sub {
+  color: white;
+  text-align: center;
+}
+
+main {
+  padding: 20px 0px;
+  display: flex;
+  justify-content: space-around;
+}
+
+section,
+aside {
+  width: 45%;
+}
+
+.conteiner{
+  padding: 10px;
+  text-align: center;
+  background-color: white;
+}
+
 aside header {
-padding: 10px;
-text-align: center;
-background-color: white;
+  padding: 10px;
+  text-align: center;
+  background-color: white;
 }
-  
-  aside div {
-    padding: 10px;
-    text-align: center;
-    background-color: white;
+
+aside div {
+  padding: 10px;
+  text-align: center;
+  background-color: white;
 }
 
 a {
@@ -59,14 +85,7 @@ a:hover {
   color: darkblue;
 }
 
-.rodapé {
-  padding: 0px 20px;
-  display: flex;
-  justify-content: center;
-  text-align: left;
-  background-color: white;
+p {
+  color: white;
+  text-align: justify;
 }
-
-/*finalização da primeira página*/
-
-/*começo do banco de dados*/
