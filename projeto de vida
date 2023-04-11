@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Projeto de Vida</title>
+	<link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header class='topo'>
+    <h1><a href="index.html">Premen</a></h1>
+  </header>
+  <h2 class="sub">Projeto de Vida</h2>
+   <p>
+     O Projeto de Vida é uma iniciativa cujo objetivo é criar uma ponte entre quem o aluno é e quem ele quer ser. Por meio desse planejamento, o aluno ganha uma melhor compreensão sobre os interesses profissionais, sociais e pessoais que compõem sua personalidade. 
+
+Ou seja, com o Projeto de Vida a escola trabalha não apenas a vida acadêmica de seus estudantes, como também incentiva o desenvolvimento de competências socioemocionais que os ajudarão a se preparar para o futuro. Um dos vários papéis da escola é o de agente de apoio dos jovens. Ao ajudá-los a se desenvolverem por meio de ferramentas com o Projeto da Vida, a escola ganha um papel essencial na trajetória escolar dos alunos e deixa de ser apenas o “lugar onde estudamos”.
+
+O Projeto de Vida também estimula os estudantes a refletirem sobre suas escolhas passadas e suas consequências, assim como as perdas e ganhos que eles vivenciaram. Com esse olhar entre o passado, o presente e o futuro, os alunos ganham a oportunidade de aprender com os seus erros e realinhar suas ações para não cometê-los novamente.
+   </p>
+</body>
+</html>
